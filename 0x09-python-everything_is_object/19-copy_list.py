@@ -1,4 +1,4 @@
 #!/user/bin/bash
-def copy_list(input list):
-return list(input list)
+def copy_list(input_list):
+return list(input_list)
 
